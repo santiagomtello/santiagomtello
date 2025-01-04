@@ -1,14 +1,14 @@
 ### ¡Hola! 👋 Soy Santiago Mendieta ✨
 
-💻 Programadora y amante de la danza.  
-🎯 Siempre buscando crecer y aprender cosas nuevas.  
-❤️ El esfuerzo constante transforma los sueños en logros y las metas en realidades.
----
+💻 Desarrollador de software apasionado por el backend y en aprendizaje de nuevos leguajes, frameworks y herramientas de desarrollo
+🎯 Siempre buscando aprender cosas nuevas que me ayuden a crecer
 
+---
 #### 🚀 Tecnologías que uso:
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)
+![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)
+![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)
+![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
 
 ---
 
